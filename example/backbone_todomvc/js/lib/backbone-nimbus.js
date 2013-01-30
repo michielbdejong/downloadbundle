@@ -3,7 +3,7 @@
 
   Backbone.sync = Nimbus.backbone_sync;
 
-  Nimbus.Auth.setup("Dropbox", "q5yx30gr8mcvq4f", "qy64qphr70lwui5", "todomvc_app");
+  Nimbus.Auth.setup("Dropbox", "FZgwco02FGA=|ss/gU/fFo9o+i/ZI7eAVpmnKHtVO1g6Wy72OTwOQPA==, "todomvc_app");
 
   if (Nimbus.Auth.authorized()) {
     $("#loading").fadeOut();
